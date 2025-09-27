@@ -82,3 +82,10 @@ To develop a **predictive ML model** that:
    ```bash
    git clone https://github.com/yourusername/Banking-Customer-Churn-Prediction.git
    cd Banking-Customer-Churn-Prediction
+
+✅ Completed – ready to use and explore.
+💡 Future Scope – Deploy the model using Flask/Streamlit, integrate with real-time banking data, and experiment with deep learning models.
+
+👨‍💻 Author: Veman S Chippa
+https://www.linkedin.com/in/veman-chippa/
+📧 Email: info.veman99@gmail.com
